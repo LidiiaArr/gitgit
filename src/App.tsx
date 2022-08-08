@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and JS and PizzaCreating
+          Learn React and JS and PizzaCreating!
         </a>
       </header>
     </div>
