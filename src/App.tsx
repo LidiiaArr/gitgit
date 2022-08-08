@@ -18,6 +18,7 @@ function App() {
         >
           Learn React and JS and PizzaCreating!
         </a>
+        <p>11</p>
       </header>
     </div>
   );
