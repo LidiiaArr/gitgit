@@ -22,5 +22,5 @@ function App() {
     </div>
   );
 }
-
+///////////////Важный важный комментарий
 export default App;
